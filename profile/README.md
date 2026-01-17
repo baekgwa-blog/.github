@@ -3,10 +3,11 @@
 - 백과의 블로그 서비스 입니다.
 - 다양한 기술과 회고 작성을 통해 성장하고 있습니다!
 - [홈페이지](http://blog.baekgwa.site/)
-- 현재 데이터 이전 작업 진행 중 으로, 이전 글은 [velog](https://velog.io/@baekgwa/posts)을 통해 확인할 수 있습니다!
+- ~~현재 데이터 이전 작업 진행 중 으로, 이전 글은 [velog](https://velog.io/@baekgwa/posts)을 통해 확인할 수 있습니다!~~
 
-<img width="1439" height="802" alt="image" src="https://github.com/user-attachments/assets/1df59ca2-f392-4f76-8338-4f2d23bd439c" />
-<img width="1430" height="1260" alt="image" src="https://github.com/user-attachments/assets/e03a6922-d00c-46e6-b977-920b70f281cb" />
+<img width="1156" height="1216" alt="image" src="https://github.com/user-attachments/assets/09d034e2-6202-4375-b5f8-857abfeda1ce" />
+<img width="1151" height="1158" alt="image" src="https://github.com/user-attachments/assets/65cd0330-bad2-40ea-8fa3-fa033fc869ee" />
+
 
 ### 🎯 목적 / 목표
 ---
@@ -19,5 +20,7 @@
 ---
 - 1차 개발 기간 : 2025.05 - 2025.07
   - 기본 블로그 기능 (작성, 조회 등) 구현
-- 2차 개발 예정 : 2025.08 -
-  - 댓글, 알림, 버그 수정 등 예정
+- 2차 개발 예정 : 2025.10 - 2026.02
+  - 챗봇 추가
+  - 모니터링 및 APM 시스템 도입
+  - 성능 최적화
