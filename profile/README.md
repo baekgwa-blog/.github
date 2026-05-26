@@ -1,4 +1,11 @@
+> 모든 코드와 주소가 내부 gitlab 으로 이전하되었습니다.
+> 
+> [https://git.baekgwa.com/baekgwa-blog](https://git.baekgwa.com/baekgwa-blog)
+> 
+> 아래의 내용은 최신화가 되어있지 않습니다.
+
 ## 안녕하세요! 👋👋
+
 ---
 - 백과의 블로그 서비스 입니다.
 - 다양한 기술과 회고 작성을 통해 성장하고 있습니다!
